@@ -1,0 +1,24 @@
+com/example/pythonquiz/BuildConfig.java
+ com.example.pythonquiz.BuildConfig
+com/example/pythonquiz/SecondFragment.java
+ com.example.pythonquiz.SecondFragment
+ com.example.pythonquiz.SecondFragment$1
+com/example/pythonquiz/databinding/FragmentFirstBinding.java
+ com.example.pythonquiz.databinding.FragmentFirstBinding
+com/example/pythonquiz/databinding/FragmentSecondBinding.java
+ com.example.pythonquiz.databinding.FragmentSecondBinding
+com/example/pythonquiz/MainActivity.java
+ com.example.pythonquiz.MainActivity
+com/example/pythonquiz/FirstFragment.java
+ com.example.pythonquiz.FirstFragment
+ com.example.pythonquiz.FirstFragment$1
+com/example/pythonquiz/databinding/ContentMainBinding.java
+ com.example.pythonquiz.databinding.ContentMainBinding
+com/example/pythonquiz/databinding/ActivityMain2Binding.java
+ com.example.pythonquiz.databinding.ActivityMain2Binding
+com/example/pythonquiz/MainActivity2.java
+ com.example.pythonquiz.MainActivity2
+ com.example.pythonquiz.MainActivity2$1
+ com.example.pythonquiz.MainActivity2$2
+com/example/pythonquiz/databinding/ActivityMainBinding.java
+ com.example.pythonquiz.databinding.ActivityMainBinding
