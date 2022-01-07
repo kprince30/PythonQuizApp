@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Python Quiz</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Python Quiz</string>
+    <string name="second_fragment_label">Instructions</string>
+    <string name="next">Read Instructions</string>
+    <string name="previous">Go back to start</string>
+
+    <string name="hello_first_fragment">Welcome to Python Quiz</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="textView">1. All questions are compulsary to attempt. \n\n2. There are 5 questions in the Quiz. \n\n3. There is no time limit so answer carefully as you cannot come back to same question in single attempt. \n\n4.To start, click the "Take the Quiz" button on the previous page.  </string>
+    <string name="textView5"> Does python supports Object oriented Programming(OOP) ?</string>
+</resources>
